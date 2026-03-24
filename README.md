@@ -18,26 +18,28 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>📍 My work usually sits where:</h4>
-      WordPress meets APIs<br>
-      SEO meets automation<br>
-      AI meets production systems<br>
-      Architecture meets messy reality
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🎯 I care about:</h4>
-      clean architecture<br>
-      practical automation<br>
-      performance-first builds<br>
-      SEO + GEO optimization<br>
-      scalable integrations<br>
-      solving the right problem first
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <h4>📍 My work usually sits where:</h4>
+        WordPress meets APIs<br>
+        SEO meets automation<br>
+        AI meets production systems<br>
+        Architecture meets messy reality
+      </td>
+      <td valign="top">
+        <h4>🎯 I care about:</h4>
+        clean architecture<br>
+        practical automation<br>
+        performance-first builds<br>
+        SEO + GEO optimization<br>
+        scalable integrations<br>
+        solving the right problem first
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -88,26 +90,28 @@
 
 <h3 align="center">🧠 How I Think</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>❌ I don’t like:</h4>
-      plugin stacking<br>
-      over-engineered frameworks<br>
-      fake AI wrappers<br>
-      “SEO hacks”<br>
-      brittle integrations
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>✅ I prefer:</h4>
-      deterministic systems<br>
-      clear architecture<br>
-      measurable improvements<br>
-      maintainable code<br>
-      practical automation
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <h4>❌ I don’t like:</h4>
+        plugin stacking<br>
+        over-engineered frameworks<br>
+        fake AI wrappers<br>
+        “SEO hacks”<br>
+        brittle integrations
+      </td>
+      <td valign="top">
+        <h4>✅ I prefer:</h4>
+        deterministic systems<br>
+        clear architecture<br>
+        measurable improvements<br>
+        maintainable code<br>
+        practical automation
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
