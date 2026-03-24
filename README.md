@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Lehakoe%20Thinane&fontSize=80&animation=twinkling&desc=Software%20&%20Systems%20Developer&descAlignY=70&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Lehakoe%20Thinane&fontSize=80&animation=twinkling&desc=Software%20%26%20Systems%20Developer&descAlignY=72&descSize=30" alt="Header Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Lehakoe Thinane</h1>
@@ -13,17 +13,19 @@
 
 ---
 
-### 💫 About Me
+<h3 align="center">💫 About Me</h3>
 
-* 🚀 I'm a passionate **Software and Systems Developer** focused on building efficient, scalable, and automated solutions.
-* 💻 I specialize in **WordPress development**, creating custom, high-performance web experiences and reliable architectures.
-* 🤖 I have a strong background in **Machine Learning (ML)** and leveraging AI to solve complex, data-driven problems.
-* ⚙️ I love building **Automations** that streamline workflows, reduce manual effort, and boost overall productivity.
-* 🌱 Always learning and exploring new technologies in backend systems, AI, and cloud architecture.
+<div align="center">
+  <p>🚀 I'm a passionate <b>Software and Systems Developer</b> focused on building efficient, scalable, and automated solutions.</p>
+  <p>💻 I specialize in <b>WordPress development</b>, creating custom, high-performance web experiences and reliable architectures.</p>
+  <p>🤖 I have a strong background in <b>Machine Learning (ML)</b> and leveraging AI to solve complex, data-driven problems.</p>
+  <p>⚙️ I love building <b>Automations</b> that streamline workflows, reduce manual effort, and boost overall productivity.</p>
+  <p>🌱 Always learning and exploring new technologies in backend systems, AI, and cloud architecture.</p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +35,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/LehakoeThinane">
@@ -52,13 +54,13 @@
 
 ---
 
-### 🚀 Let's Connect
+<h3 align="center">🚀 Let's Connect</h3>
 
 <p align="center">
-  <a href="mailto:lehakoethinane@example.com"> <!-- Update with your real email -->
+  <a href="mailto:lehakoe.thinane@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"> <!-- Update with your LinkedIn -->
+  <a href="https://www.linkedin.com/in/lehakoe-stanley-thinane-38b854188/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
