@@ -20,55 +20,55 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>📍 My work usually sits where:</h4>
-      <ul>
-        <li>WordPress meets APIs</li>
-        <li>SEO meets automation</li>
-        <li>AI meets production systems</li>
-        <li>Architecture meets messy reality</li>
-      </ul>
+      WordPress meets APIs<br>
+      SEO meets automation<br>
+      AI meets production systems<br>
+      Architecture meets messy reality
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🎯 I care about:</h4>
-      <ul>
-        <li>clean architecture</li>
-        <li>practical automation</li>
-        <li>performance-first builds</li>
-        <li>SEO + GEO optimization</li>
-        <li>scalable integrations</li>
-        <li>solving the right problem first</li>
-      </ul>
+      clean architecture<br>
+      practical automation<br>
+      performance-first builds<br>
+      SEO + GEO optimization<br>
+      scalable integrations<br>
+      solving the right problem first
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 What I Do
+<h3 align="center">🚀 What I Do</h3>
 
-- **Build** high-performance WordPress platforms
-- **Design** SEO + GEO automation agents
-- **Create** AI-assisted audit and optimization systems
-- **Architect** API integrations between services
-- **Automate** workflows using Python + n8n + REST APIs
-- **Improve** Core Web Vitals and technical SEO at scale
-- **Build** dashboards for real-time analysis and reporting
-
----
-
-### 🎯 Current Focus
-
-- SEO-GEO Automation Agent
-- AI-powered technical SEO auditing
-- WordPress optimization frameworks
-- Retrieval-friendly content optimization
-- Scalable site audit pipelines
-- LLM-assisted developer tooling
+<p align="center">
+  <b>Build</b> high-performance WordPress platforms<br>
+  <b>Design</b> SEO + GEO automation agents<br>
+  <b>Create</b> AI-assisted audit and optimization systems<br>
+  <b>Architect</b> API integrations between services<br>
+  <b>Automate</b> workflows using Python + n8n + REST APIs<br>
+  <b>Improve</b> Core Web Vitals and technical SEO at scale<br>
+  <b>Build</b> dashboards for real-time analysis and reporting
+</p>
 
 ---
 
-### 🛠️ Tech I Work With
+<h3 align="center">🎯 Current Focus</h3>
+
+<p align="center">
+  SEO-GEO Automation Agent<br>
+  AI-powered technical SEO auditing<br>
+  WordPress optimization frameworks<br>
+  Retrieval-friendly content optimization<br>
+  Scalable site audit pipelines<br>
+  LLM-assisted developer tooling
+</p>
+
+---
+
+<h3 align="center">🛠️ Tech I Work With</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -76,57 +76,59 @@
   </a>
 </p>
 
-* **Languages:** Python, PHP, JavaScript (ES6+)
-* **Web:** WordPress (Custom Themes & Plugins), WooCommerce, REST APIs, React (light usage for dashboards)
-* **Automation:** n8n, Webhooks, Background workers, Queue-based processing
-* **SEO / GEO:** Technical SEO audits, Core Web Vitals optimization, Entity-based SEO, AI retrieval optimization, Structured data systems
-* **Infrastructure:** AWS, Azure, Docker (light usage), CI/CD pipelines
+<p align="center">
+  <b>Languages:</b> Python, PHP, JavaScript (ES6+)<br>
+  <b>Web:</b> WordPress (Custom Themes & Plugins), WooCommerce, REST APIs, React (light usage)<br>
+  <b>Automation:</b> n8n, Webhooks, Background workers, Queue-based processing<br>
+  <b>SEO / GEO:</b> Technical SEO audits, Core Web Vitals optimization, Entity-based SEO, AI retrieval optimization, Structured data systems<br>
+  <b>Infrastructure:</b> AWS, Azure, Docker, CI/CD pipelines
+</p>
 
 ---
 
-### 🧠 How I Think
+<h3 align="center">🧠 How I Think</h3>
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>❌ I don’t like:</h4>
-      <ul>
-        <li>plugin stacking</li>
-        <li>over-engineered frameworks</li>
-        <li>fake AI wrappers</li>
-        <li>“SEO hacks”</li>
-        <li>brittle integrations</li>
-      </ul>
+      plugin stacking<br>
+      over-engineered frameworks<br>
+      fake AI wrappers<br>
+      “SEO hacks”<br>
+      brittle integrations
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>✅ I prefer:</h4>
-      <ul>
-        <li>deterministic systems</li>
-        <li>clear architecture</li>
-        <li>measurable improvements</li>
-        <li>maintainable code</li>
-        <li>practical automation</li>
-      </ul>
+      deterministic systems<br>
+      clear architecture<br>
+      measurable improvements<br>
+      maintainable code<br>
+      practical automation
     </td>
   </tr>
 </table>
 
 ---
 
-### 📁 Projects You’ll Find Here
+<h3 align="center">📁 Projects You’ll Find Here</h3>
 
-- SEO-GEO Automation Agent
-- WordPress optimization tooling
-- AI-assisted audit pipelines
-- API integration frameworks
-- performance tooling
-- developer utilities
+<p align="center">
+  SEO-GEO Automation Agent<br>
+  WordPress optimization tooling<br>
+  AI-assisted audit pipelines<br>
+  API integration frameworks<br>
+  performance tooling<br>
+  developer utilities
+</p>
 
-> **Note:** Most repos are built for **real-world usage**, not tutorial content.
+<p align="center">
+  <i><b>Note:</b> Most repos are built for <b>real-world usage</b>, not tutorial content.</i>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/LehakoeThinane">
@@ -145,14 +147,16 @@
 
 ---
 
-### 🏛️ Philosophy
+<h3 align="center">🏛️ Philosophy</h3>
 
-> Build things that **work**, **scale**, **make sense**, and **don’t fall apart in production**.<br>
-> _Everything else is decoration._
+<p align="center">
+  <i>Build things that <b>work</b>, <b>scale</b>, <b>make sense</b>, and <b>don’t fall apart in production</b>.</i><br>
+  <i>Everything else is decoration.</i>
+</p>
 
 ---
 
-### 🚀 Let's Connect
+<h3 align="center">🚀 Let's Connect</h3>
 
 <p align="center">
   <a href="mailto:lehakoe.thinane@gmail.com">
