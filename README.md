@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Stanley%20Thinane&fontSize=80&animation=twinkling&desc=Solution%20Engineer%20%7C%20WordPress%20Systems%20%7C%20AI%20Automation&descAlignY=73&descSize=26" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Stanley%20Thinane&fontSize=80&animation=twinkling&desc=WordPress%20%26%20Systems%20Developer%20%7C%20Python%20Automation%20%7C%20AI%20Workflows%20%7C%20Technical%20SEO%20%7C%20Core%20Web%20Vitals&descAlignY=73&descSize=22" alt="Header Banner" />
 </div>
 
 <h1 align="center">Stanley Thinane</h1>
-<h3 align="center">Solution Engineer | WordPress Systems Developer | AI Automation Builder</h3>
+<h3 align="center">Python Automation Engineer for WordPress, SEO, and Business Systems</h3>
 
 <div align="center">
-  <p><b>I build systems that solve real problems.</b><br>
-  Not just websites. Not just scripts. <i>Actual working pipelines.</i></p>
+  <p><b>I build Python-powered automation systems for WordPress, SEO, and business operations, combining APIs, AI workflows, and performance-focused engineering.</b><br>
+  Not just no-code automation—<i>actual engineering.</i></p>
 </div>
 
 <p align="center">
@@ -22,19 +22,18 @@
   <table>
     <tr>
       <td valign="top">
-        <h4>📍 My work usually sits where:</h4>
-        WordPress meets APIs<br>
-        SEO meets automation<br>
-        AI meets production systems<br>
-        Architecture meets messy reality
+        <h4>📍 Problems I Solve:</h4>
+        I optimise WordPress sites scoring under 50 CWV to 90+<br>
+        I build automation agents for SEO auditing<br>
+        I fix slow WooCommerce checkouts<br>
+        I improve indexing and crawlability
       </td>
       <td valign="top">
         <h4>🎯 I care about:</h4>
-        clean architecture<br>
-        practical automation<br>
+        Python-powered automation<br>
         performance-first builds<br>
-        SEO + GEO optimization<br>
-        scalable integrations<br>
+        Core Web Vitals & Technical SEO<br>
+        scalable API integrations<br>
         solving the right problem first
       </td>
     </tr>
@@ -46,13 +45,15 @@
 <h3 align="center">🚀 What I Do</h3>
 
 <p align="center">
-  <b>Build</b> high-performance WordPress platforms<br>
-  <b>Design</b> SEO + GEO automation agents<br>
-  <b>Create</b> AI-assisted audit and optimization systems<br>
-  <b>Architect</b> API integrations between services<br>
-  <b>Automate</b> workflows using Python + n8n + REST APIs<br>
-  <b>Improve</b> Core Web Vitals and technical SEO at scale<br>
-  <b>Build</b> dashboards for real-time analysis and reporting
+  I build <b>Python-powered automation systems</b> that reduce manual work, connect APIs, process business data, and improve operational efficiency. My work spans WordPress, technical SEO, AI-assisted workflows, and custom backend tooling.
+</p>
+
+<p align="center">
+  <b>Python scripts</b> for document/data processing<br>
+  <b>FastAPI tools</b> & <b>API integrations</b><br>
+  <b>Automation pipelines</b> & <b>Reporting systems</b><br>
+  <b>Workflow orchestration</b> with Python plus n8n where needed<br>
+  <b>SEO audit agents</b>
 </p>
 
 ---
@@ -80,8 +81,8 @@
 
 <p align="center">
   <b>Languages:</b> Python, PHP, JavaScript (ES6+)<br>
+  <b>Automation & Backend:</b> Python scripts, FastAPI, n8n, Webhooks, Background workers, Queue-based processing<br>
   <b>Web:</b> WordPress (Custom Themes & Plugins), WooCommerce, REST APIs, React (light usage)<br>
-  <b>Automation:</b> n8n, Webhooks, Background workers, Queue-based processing<br>
   <b>SEO / GEO:</b> Technical SEO audits, Core Web Vitals optimization, Entity-based SEO, AI retrieval optimization, Structured data systems<br>
   <b>Infrastructure:</b> AWS, Azure, Docker, CI/CD pipelines
 </p>
@@ -118,12 +119,11 @@
 <h3 align="center">📁 Projects You’ll Find Here</h3>
 
 <p align="center">
-  SEO-GEO Automation Agent<br>
-  WordPress optimization tooling<br>
-  AI-assisted audit pipelines<br>
-  API integration frameworks<br>
-  performance tooling<br>
-  developer utilities
+  Python SEO-GEO Audit Agent<br>
+  Python-Based Reporting Automation System<br>
+  FastAPI Automation Service for WordPress Operations<br>
+  Python API Integration for Tax and CRM Workflows<br>
+  Automating SEO audits with AI
 </p>
 
 <p align="center">
@@ -147,6 +147,18 @@
   <a href="https://github.com/LehakoeThinane">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehakoeThinane&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
+</p>
+
+---
+
+<h3 align="center">📝 Writing & Guides</h3>
+
+<p align="center">
+  How I use Python to automate SEO audits<br>
+  Python vs n8n for business automation<br>
+  How I fixed a 3s LCP WordPress site<br>
+  WooCommerce checkout performance guide<br>
+  Technical SEO fixes for large WordPress sites
 </p>
 
 ---
