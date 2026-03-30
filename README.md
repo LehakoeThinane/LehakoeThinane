@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Stanley%20Thinane&fontSize=80&animation=twinkling&desc=WordPress%20%26%20Systems%20Developer%20%7C%20Python%20Automation%20%7C%20AI%20Workflows%20%7C%20Technical%20SEO%20%7C%20Core%20Web%20Vitals&descAlignY=73&descSize=22" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Stanley%20Thinane&fontSize=80&animation=twinkling&desc=Python%20Automation%20Engineer%20%7C%20WordPress%20%7C%20SEO%20%7C%20Business%20Systems&descAlignY=73&descSize=22" alt="Header Banner" />
 </div>
 
 <h1 align="center">Stanley Thinane</h1>
