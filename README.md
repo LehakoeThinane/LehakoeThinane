@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Stanley%20Thinane&fontSize=80&animation=twinkling&desc=Python%20Automation%20Engineer%20%7C%20WordPress%20%7C%20SEO%20%7C%20Business%20Systems&descAlignY=73&descSize=22" alt="Header Banner" />
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,php,wordpress,js,react,mysql,docker,aws,azure&theme=dark" alt="Skills Banner" />
+  </a>
+  <br>
 </div>
 
 <h1 align="center">Stanley Thinane</h1>
